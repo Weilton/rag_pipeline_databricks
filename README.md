@@ -1,1 +1,1 @@
-# RAG Pipeline com Serving Endpoint API Para LLM no Databricks
+# Building a RAG Pipeline com Serving Endpoint API Para LLM no Databricks
